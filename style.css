@@ -96,3 +96,8 @@ section{
     grid-row: 2;
 }
 */
+nav{
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
